@@ -53,7 +53,7 @@ Kubernetes相关的能力敬请等待.
 
 作者
 -------
-Created and maintained by Jungle(353187194@qq.com), He Guimin(@xiaozhu36, heguimin36@163.com).
+Created and maintained by Alibaba Cloud Terraform Team(terraform@alibabacloud.com).
 
 参考
 ----
